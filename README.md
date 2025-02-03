@@ -16,31 +16,30 @@ hesitate to read the source code and understand the mechanism of this software.
 
 ## Supported Trading Platforms
 
-- [ ] [Passivbot](https://www.binance.com/)
-- [ ] [Fraqtrade](https://bitmart.com/)
-- [ ] [Hummingbot](https://bingx.com/invite/0EM9RX)
-- [ ] [Octobot](https://bybit.com/)
-- [ ] [SuperAlgos](https://www.gate.io/ref/6266643)
+- [ ] [Passivbot](https://github.com/enarjord/passivbot)
+- [ ] [Fraqtrade](https://github.com/freqtrade/freqtrade/tree/develop)
+- [ ] [Hummingbot](https://github.com/hummingbot/hummingbot)
+- [ ] [Octobot](https://github.com/Drakkar-Software/OctoBot)
+- [ ] [SuperAlgos](https://github.com/Superalgos/Superalgos)
 
 ## Supported Exchange marketplaces
 
-- [X] [Binance](https://www.binance.com/)
-- [X] [Bitmart](https://bitmart.com/)
-- [X] [BingX](https://bingx.com/invite/0EM9RX)
-- [X] [Bybit](https://bybit.com/)
-- [X] [Gate.io](https://www.gate.io/ref/6266643)
-- [X] [HTX](https://www.htx.com/)
-- [X] [Hyperliquid](https://hyperliquid.xyz/) (A decentralized exchange, or DEX)
-- [X] [Kraken](https://kraken.com/)
-- [X] [OKX](https://okx.com/)
-- [X] [MyOKX](https://okx.com/) (OKX EEA)
-- [ ] [potentially many others](https://github.com/ccxt/ccxt/). _(We cannot guarantee they will work)_
+- [ ] [Binance](https://www.binance.com/)
+- [ ] [Bitmart](https://bitmart.com/)
+- [ ] [BingX](https://bingx.com/invite/0EM9RX)
+- [ ] [Bybit](https://bybit.com/)
+- [ ] [Gate.io](https://www.gate.io/ref/6266643)
+- [ ] [HTX](https://www.htx.com/)
+- [ ] [Hyperliquid](https://hyperliquid.xyz/) 
+- [ ] [Kraken](https://kraken.com/)
+- [ ] [OKX](https://okx.com/)
+- [ ] [MyOKX](https://okx.com/) (OKX EEA)
 
-### Supported Futures Exchanges (experimental)
+## Supported platforms
 
-- [X] [Binance](https://www.binance.com/)
-- [X] [Gate.io](https://www.gate.io/ref/6266643)
-- [X] [Hyperliquid](https://hyperliquid.xyz/) (A decentralized exchange, or DEX)
-- [X] [OKX](https://okx.com/)
-- [X] [Bybit](https://bybit.com/)
+- [ ] Desktop Windows, Mac OS, Linux
+- [ ] Web
+- [ ] Mobile Android, iOS
+
+
 
