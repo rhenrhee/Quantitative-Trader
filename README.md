@@ -37,9 +37,12 @@ hesitate to read the source code and understand the mechanism of this software.
 
 ## Supported platforms
 
-- [ ] Desktop Windows, Mac OS, Linux
+- [ ] Windows
+- [ ] Mac OS
+- [ ] Linux
 - [ ] Web
-- [ ] Mobile Android, iOS
+- [ ] Android
+- [ ] iOS
 
 
 
