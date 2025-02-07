@@ -1,6 +1,7 @@
 # tradegui
 TradeGUI - cross-platform software for managing automated cryptocurrency trading tools on various exchanges.
-![tradegui](https://raw.githubusercontent.com/rhenrhee/tradegui/develop/main/screenshot_1.png)
+
+![tradegui](https://github.com/rhenrhee/tradegui/blob/main/screenshot_1.png)
 
 ## Disclaimer
 
