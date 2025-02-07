@@ -21,8 +21,9 @@ TradeGUI (оно же Quantitative Trader) - кроссплатформенно�
 - [ ] Сообщество трейдеров
 - [ ] Встроенный чат с возможностью тестовой, головой и видеосвязи
 - [ ] Документация
+- [ ] Мультиязычная поддержка (русский, английский, китайский и др. языки)
 
-## Disclaimer
+## Предупреждение
 
 This software is for educational purposes only. Do not risk money which
 you are afraid to lose. USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS
@@ -35,7 +36,7 @@ expect.
 We strongly recommend you to have coding and Python, Flutter, RUST knowledge. Do not
 hesitate to read the source code and understand the mechanism of this software.
 
-## Supported Trading Platforms
+## Поддерживаемые торговые платформы
 
 - [ ] [Passivbot](https://github.com/enarjord/passivbot)
 - [ ] [Fraqtrade](https://github.com/freqtrade/freqtrade/tree/develop)
@@ -43,7 +44,7 @@ hesitate to read the source code and understand the mechanism of this software.
 - [ ] [Octobot](https://github.com/Drakkar-Software/OctoBot)
 - [ ] [SuperAlgos](https://github.com/Superalgos/Superalgos)
 
-## Supported Exchange marketplaces
+## Поддерживаемые биржи
 
 - [ ] [Binance](https://www.binance.com/)
 - [ ] [Bitmart](https://bitmart.com/)
@@ -56,7 +57,7 @@ hesitate to read the source code and understand the mechanism of this software.
 - [ ] [OKX](https://okx.com/)
 - [ ] [MyOKX](https://okx.com/) (OKX EEA)
 
-## Supported platforms
+## Поддерживаемые платформы
 
 - [ ] Windows
 - [ ] Mac OS
