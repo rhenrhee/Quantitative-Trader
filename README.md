@@ -1,5 +1,5 @@
 # tradegui
-TradeGUI - cross-platform software for managing automated cryptocurrency trading tools on various exchanges.
+TradeGUI (оно же Quantitative Trader) - кроссплатформенное решение для криптоэнтузиастов, увлекающихся трейдингом с помощью автоматизированных инстурментов. Данное решение позволяет производить установку, настройку и мониторинг торговых роботов бесплатно, а также с использованием облачных решений.
 
 ![tradegui](https://github.com/rhenrhee/tradegui/blob/main/screenshot_1.png)
 
