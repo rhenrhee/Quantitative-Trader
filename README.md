@@ -5,12 +5,6 @@
 ![tradegui](https://github.com/rhenrhee/tradegui/blob/main/screenshot_1.png)
 
 ## Краткое описание основных функций платформы
-<p align="justify">
-  - [ ] Мастер установки на локальный сервер.
-  Обеспечивает быстрое развёртывание на локальном сервере любых доступных (поддерживаемых) платформ автоматизированной торговли. 
-</p>
-## Ключевые возможности
-
 - [ ] Мастер установки на локальный сервер
 - [ ] Мастер установки на удалённый сервер (ssh)
 - [ ] Мастер усатновки на облачный сервер (аренда)
@@ -29,16 +23,7 @@
 
 ## Предупреждение
 
-This software is for educational purposes only. Do not risk money which
-you are afraid to lose. USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS
-AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS.
-
-Always start by running a trading bot in Dry-run and do not engage money
-before you understand how it works and what profit/loss you should
-expect.
-
-We strongly recommend you to have coding and Python, Flutter, RUST knowledge. Do not
-hesitate to read the source code and understand the mechanism of this software.
+<p align="justify">Данное ПО предоставляется "как есть" в образовательных и научно-исследовательских целях. Используя данное ПО при торговле на реальных средствах - Вы берёте на себя полную ответственность за риск их потери!</p>
 
 ## Поддерживаемые торговые платформы
 
@@ -69,6 +54,10 @@ hesitate to read the source code and understand the mechanism of this software.
 - [ ] Web
 - [ ] Android
 - [ ] iOS
-
-
+      
+## Поддержка проекта
+<p align="justify">Если Вы хотите поддержать проект, то можете сделать это следующим образом:</p>
+Реферальные ссылки на регистрацию: 
+Копитрейдинг:
+Кошелёк:
 
