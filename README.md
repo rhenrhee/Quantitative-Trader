@@ -11,6 +11,7 @@
 ![tradegui](https://github.com/rhenrhee/tradegui/blob/main/_screenshots/screenshot_3.png)
 ![tradegui](https://github.com/rhenrhee/tradegui/blob/main/_screenshots/screenshot_4.png)
 - [ ] Мастер установки на облачный сервер (аренда)
+![tradegui](https://github.com/rhenrhee/tradegui/blob/main/_screenshots/screenshot_5.png)
 - [ ] Мастер запуска торговли
 - [ ] Тестирование конфигурации и стратегии
 - [ ] Оптимизация конфигурации и стратегии
