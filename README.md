@@ -9,7 +9,8 @@
 ![tradegui](https://github.com/rhenrhee/tradegui/blob/main/_screenshots/screenshot_2.png)
 - [ ] Мастер установки на удалённый сервер (ssh)
 ![tradegui](https://github.com/rhenrhee/tradegui/blob/main/_screenshots/screenshot_3.png)
-- [ ] Мастер усатновки на облачный сервер (аренда)
+![tradegui](https://github.com/rhenrhee/tradegui/blob/main/_screenshots/screenshot_4.png)
+- [ ] Мастер установки на облачный сервер (аренда)
 - [ ] Мастер запуска торговли
 - [ ] Тестирование конфигурации и стратегии
 - [ ] Оптимизация конфигурации и стратегии
