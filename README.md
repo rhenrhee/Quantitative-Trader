@@ -7,6 +7,7 @@
 ## Краткое описание основных функций платформы
 - [ ] Мастер установки на локальный сервер
 ![tradegui](https://github.com/rhenrhee/tradegui/blob/main/_screenshots/screenshot_2.png)
+![tradegui](https://github.com/rhenrhee/tradegui/blob/main/_screenshots/screenshot_3.png)
 - [ ] Мастер установки на удалённый сервер (ssh)
 - [ ] Мастер усатновки на облачный сервер (аренда)
 - [ ] Мастер запуска торговли
