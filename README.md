@@ -69,8 +69,7 @@
 
 <br>Копитрейдинг:
 <br>Кошелёк:
-<br>USDT ERC-20: 0x5f1f5ff4d6a6be280e7c6c78e11259a8751ac159
-<br>USDT TRC-20: TTPnmdaHpKqJYbgogQiGrMk2ikbjpobENj
-<br>BTC: 1GfJCguTMtEVvhvAQyxnifmXcJ2h7WfSdZ
-<br>ETH: 0x5f1f5ff4d6a6be280e7c6c78e11259a8751ac159
-
+- [ ] [USDT ERC-20 | 0x5f1f5ff4d6a6be280e7c6c78e11259a8751ac159]
+- [ ] [USDT-TRC20 | TTPnmdaHpKqJYbgogQiGrMk2ikbjpobENj]
+- [ ] [BTC | 1GfJCguTMtEVvhvAQyxnifmXcJ2h7WfSdZ]
+- [ ] [ETH | 0x5f1f5ff4d6a6be280e7c6c78e11259a8751ac159]
