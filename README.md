@@ -63,7 +63,7 @@
 ## Поддержка проекта
 <p align="justify">Если Вы хотите поддержать проект, то можете сделать это следующим образом:</p>
 <br>Реферальные ссылки на регистрацию: 
-<br>[Bybit]([https://bybit.com/](https://www.bybit.com/invite?ref=VVZMJM) либо используя реферальный код: VVZMJM
+<br>[Bybit]([[https://bybit.com/](https://www.bybit.com/invite?ref=VVZMJM)] либо используя реферальный код: VVZMJM
 <br>Копитрейдинг:
 <br>Кошелёк:
 <br>USDT ERC-20: 0x5f1f5ff4d6a6be280e7c6c78e11259a8751ac159
