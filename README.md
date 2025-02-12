@@ -77,6 +77,8 @@
 - [ ] [BingX](https://bingx.com/partner/TradingBRO/)
 
 <br>Копитрейдинг | Copytrading | 复制交易
+- [ ] [Bybit](https://bybit.onelink.me/EhY6/4rlohbqq)
+
 <br>Кошелёк | Wallet | 钱包
 - [ ] [USDT ERC-20 | 0x5f1f5ff4d6a6be280e7c6c78e11259a8751ac159]
 - [ ] [USDT-TRC20 | TTPnmdaHpKqJYbgogQiGrMk2ikbjpobENj]
