@@ -74,6 +74,7 @@
 <br>Реферальные ссылки на регистрацию | Referral links to enrollment | 用于注册的推荐链接
 
 - [ ] [Bybit](https://www.bybit.com/invite?ref=VVZMJM)
+- [ ] [BingX](https://bingx.com/partner/TradingBRO/)
 
 <br>Копитрейдинг | Copytrading | 复制交易
 <br>Кошелёк | Wallet | 钱包
